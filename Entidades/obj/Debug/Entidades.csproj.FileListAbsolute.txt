@@ -1,0 +1,30 @@
+C:\Users\GianFranco\Desktop\Proyecto Sistema de venta Passion Drummers\SistemaDeVentaPassionDrummers\Entidades\bin\Debug\Entidades.dll
+C:\Users\GianFranco\Desktop\Proyecto Sistema de venta Passion Drummers\SistemaDeVentaPassionDrummers\Entidades\bin\Debug\Entidades.pdb
+C:\Users\GianFranco\Desktop\Proyecto Sistema de venta Passion Drummers\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\GianFranco\Desktop\Proyecto Sistema de venta Passion Drummers\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\GianFranco\Desktop\Proyecto Sistema de venta Passion Drummers\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.dll
+C:\Users\GianFranco\Desktop\Proyecto Sistema de venta Passion Drummers\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.pdb
+C:\Users\carlo\Desktop\SistemaVentaPD\Entidades\bin\Debug\Entidades.dll
+C:\Users\carlo\Desktop\SistemaVentaPD\Entidades\bin\Debug\Entidades.pdb
+C:\Users\carlo\Desktop\SistemaVentaPD\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\carlo\Desktop\SistemaVentaPD\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\SistemaVentaPD\Entidades\obj\Debug\Entidades.dll
+C:\Users\carlo\Desktop\SistemaVentaPD\Entidades\obj\Debug\Entidades.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\SistemaVentaPD\Entidades\bin\Debug\Entidades.dll
+D:\Ingeniería de Sistemas\Programación III 2022\SistemaVentaPD\Entidades\bin\Debug\Entidades.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\SistemaVentaPD\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Ingeniería de Sistemas\Programación III 2022\SistemaVentaPD\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Ingeniería de Sistemas\Programación III 2022\SistemaVentaPD\Entidades\obj\Debug\Entidades.dll
+D:\Ingeniería de Sistemas\Programación III 2022\SistemaVentaPD\Entidades\obj\Debug\Entidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\SistemaDeVentaPassionDrummers\Entidades\bin\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaDeVentaPassionDrummers\Entidades\bin\Debug\Entidades.pdb
+C:\Users\carlo\OneDrive\Escritorio\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\carlo\OneDrive\Escritorio\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\carlo\OneDrive\Escritorio\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.dll
+C:\Users\carlo\OneDrive\Escritorio\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.pdb
+D:\Ingeniería de Sistemas\Ingeniería de Software II\SistemaDeVentaPassionDrummers\Entidades\bin\Debug\Entidades.dll
+D:\Ingeniería de Sistemas\Ingeniería de Software II\SistemaDeVentaPassionDrummers\Entidades\bin\Debug\Entidades.pdb
+D:\Ingeniería de Sistemas\Ingeniería de Software II\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Ingeniería de Sistemas\Ingeniería de Software II\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Ingeniería de Sistemas\Ingeniería de Software II\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.dll
+D:\Ingeniería de Sistemas\Ingeniería de Software II\SistemaDeVentaPassionDrummers\Entidades\obj\Debug\Entidades.pdb
